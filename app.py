@@ -9,7 +9,6 @@ load_dotenv()
 
 # os.environ["LANGCHAIN_API_KEY"] = os.getenv("langchain_api_key")
 # st.secrets["langchain_api_key"]
-
 api_key=st.sidebar.text_input("Enter your Groq API Key:",type="password")
 
 #prompt template
