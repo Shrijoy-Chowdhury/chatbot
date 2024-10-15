@@ -7,5 +7,3 @@ pymupdf
 arxiv
 streamlit
 langchain-chroma
-
-
