@@ -1,0 +1,9 @@
+langchain-groq
+langchain
+langchain-community
+langchain-text-splitters
+wikipedia
+pymupdf
+arxiv
+streamlit
+langchain-chroma
